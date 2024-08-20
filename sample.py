@@ -1,4 +1,4 @@
-def sum_of_list(l:list) -> int
+def sum_of_list(l:list) -> int:
     """Returns the sum of the given list"""
     total = 0
     for element in l:
