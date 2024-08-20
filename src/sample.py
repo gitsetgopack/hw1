@@ -3,7 +3,7 @@ def sum_of_list(l:list) -> int:
     total = 0
     for element in l:
         total+=element
-    return element
+    return total
 
 l = [1,2,3]
 total = sum_of_list(l)
