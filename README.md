@@ -15,6 +15,7 @@ First Homework
 ---
 Stats 
 
+![example workflow](https://github.com/gitsetgopack/hw1/actions/workflows/pytest.yaml/badge.svg)
 ![Pull Requests](https://img.shields.io/github/issues-pr/gitsetgopack/hw1) 
 ![GitHub repo size](https://img.shields.io/github/repo-size/gitsetgopack/hw1)
 ![](http://unmaintained.tech/badge.svg)
