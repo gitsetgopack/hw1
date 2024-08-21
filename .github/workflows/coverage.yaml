@@ -23,8 +23,10 @@ jobs:
 
     - name: get coverage
       run: |
-        coverage run --source=mypkg -m pytest tests/
+        coverage run -m pytest tests/
         coveralls
 
     - name: Coveralls
       uses: coverallsapp/github-action@v2
+
+      
